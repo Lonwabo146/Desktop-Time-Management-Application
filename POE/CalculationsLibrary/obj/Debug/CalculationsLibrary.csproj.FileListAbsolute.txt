@@ -1,0 +1,6 @@
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\CalculationsLibrary\bin\Debug\CalculationsLibrary.dll
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\CalculationsLibrary\bin\Debug\CalculationsLibrary.pdb
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\CalculationsLibrary\obj\Debug\CalculationsLibrary.csprojAssemblyReference.cache
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\CalculationsLibrary\obj\Debug\CalculationsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\CalculationsLibrary\obj\Debug\CalculationsLibrary.dll
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\CalculationsLibrary\obj\Debug\CalculationsLibrary.pdb

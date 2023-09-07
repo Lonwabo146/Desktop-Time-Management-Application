@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part 1-POE", "Part 1-POE\Part 1-POE.csproj", "{DBA5358E-EE05-4DF0-A26C-B1FB1980D5FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculationsLibrary", "CalculationsLibrary\CalculationsLibrary.csproj", "{CE88ADA8-FB28-4BDB-A2B5-4F7570D98455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBA5358E-EE05-4DF0-A26C-B1FB1980D5FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA5358E-EE05-4DF0-A26C-B1FB1980D5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA5358E-EE05-4DF0-A26C-B1FB1980D5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA5358E-EE05-4DF0-A26C-B1FB1980D5FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE88ADA8-FB28-4BDB-A2B5-4F7570D98455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE88ADA8-FB28-4BDB-A2B5-4F7570D98455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE88ADA8-FB28-4BDB-A2B5-4F7570D98455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE88ADA8-FB28-4BDB-A2B5-4F7570D98455}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {269CD48E-6F97-486E-9F2C-BEDFA629DCB0}
+	EndGlobalSection
+EndGlobal

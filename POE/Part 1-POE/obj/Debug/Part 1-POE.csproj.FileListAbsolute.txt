@@ -1,0 +1,18 @@
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\Part 1-POE\bin\Debug\Part 1-POE.exe.config
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\Part 1-POE\bin\Debug\Part 1-POE.exe
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\Part 1-POE\bin\Debug\Part 1-POE.pdb
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\Part 1-POE\bin\Debug\CalculationsLibrary.dll
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\Part 1-POE\bin\Debug\CalculationsLibrary.pdb
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\Part 1-POE\obj\Debug\Part 1-POE.csprojAssemblyReference.cache
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\Part 1-POE\obj\Debug\MainWindow.g.cs
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\Part 1-POE\obj\Debug\App.g.cs
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\Part 1-POE\obj\Debug\Part 1-POE_MarkupCompile.cache
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\Part 1-POE\obj\Debug\Part 1-POE_MarkupCompile.lref
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\Part 1-POE\obj\Debug\MainWindow.baml
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\Part 1-POE\obj\Debug\Part 1-POE.g.resources
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\Part 1-POE\obj\Debug\Part_1_POE.Properties.Resources.resources
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\Part 1-POE\obj\Debug\Part 1-POE.csproj.GenerateResource.cache
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\Part 1-POE\obj\Debug\Part 1-POE.csproj.CoreCompileInputs.cache
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\Part 1-POE\obj\Debug\Part 1-POE.csproj.CopyComplete
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\Part 1-POE\obj\Debug\Part 1-POE.exe
+C:\Users\Lonwabo.DESKTOP-TN16HEF\Documents\POE Part 1\POE -Part 1\Part 1-POE\obj\Debug\Part 1-POE.pdb
